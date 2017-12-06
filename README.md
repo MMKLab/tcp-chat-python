@@ -1,2 +1,2 @@
-# py-threaded-chat
-A simple TCP chat that includes threads
+# Threaded TCP Chat
+A simple TCP chat client and server that include threads
